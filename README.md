@@ -73,7 +73,7 @@ By the end of this notebook, you will:
 ## 🚀 Run This Notebook
 Open the notebook in Google Colab:
 
-👉 [Titanic_EDA_Colab.ipynb](celebal_assignment4.ipynb)
+👉 [celebal_assignment4.ipynb](celebal_assignment4.ipynb)
 
 ---
 
